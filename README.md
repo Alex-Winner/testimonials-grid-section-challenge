@@ -12,9 +12,6 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
   - [Built with](#built-with)
 - [Author](#author)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -31,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [URL here](https://alex-winner.github.io/Testimonials-challenge/)
+- Live Site URL: [URL here](https://alex-winner.github.io/testimonials-grid-section-challenge/)
 
 ## My process
 
